@@ -1,8 +1,8 @@
 // 이 파일은 Claude가 관리합니다. 실습을 추가하면 해당 번호의 done/date가 바뀝니다.
 window.WORKS = {
  "student": {
-  "name": "이름을 적어 주세요",
-  "github": ""
+  "name": "리허설 학생",
+  "github": "KIKI0715"
  },
  "items": [
   {
